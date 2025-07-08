@@ -14,7 +14,7 @@
 •	PanoCycle360’s performance has been validated with the most popular detection models.
 
 
-The following table shows the details of the raw data.
+### The details of the raw data.
 | Number  | Size | Duration | Time | Weather | Objects | Scenario |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  | 15.3GB  | 00:29:59  | Day  | Cloudy  | o1,o2,o3,o4,o5,o6,o7,o8,o9  | s1  |
@@ -41,7 +41,7 @@ The following table shows the details of the raw data.
 *o1. Person, o2. Bus, o3. Car, o4. Cyclist, o5. E-Bike Rider, o6. Cargo Tricycle, o7. Van, o8. Truck, o9. Auto Rickshaw,
  s1. Urban Roads, s2. Suburban Roads, s3. Cycling Greenways，s4. Bridge, s5. Viaduct, s6.Park, s7. Avenue, s8. Ferry, s9. Rail
 
-The following pictures show the classes of the dataset.
+### The classes of the dataset.
  ![image](https://github.com/Feng-LChen/image/blob/main/images/9.png)
 
  ## 3.Details of the dataset
