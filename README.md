@@ -33,3 +33,33 @@ The following table shows the details of the raw data.
 
 *o1. Person, o2. Bus, o3. Car, o4. Cyclist, o5. E-Bike Rider, o6. Cargo Tricycle, o7. Van, o8. Truck, o9. Auto Rickshaw,
  s1. Urban Roads, s2. Suburban Roads, s3. Cycling Greenways，s4. Bridge, s5. Viaduct, s6.Park, s7. Avenue, s8. Ferry, s9. Rail
+
+The following pictures show the classes of the dataset.
+ ![image](https://github.com/Feng-LChen/image/blob/main/images/9.png)
+
+ ## Details of the dataset
+
+ ### The proportion of annotation boxes of each class in PanoCycle360.
+ 
+ <img src="https://github.com/Feng-LChen/image/blob/main/images/bing.png" width="500px">
+ 
+ <img src="https://github.com/Feng-LChen/image/blob/main/images/tongji.png" width="800px">
+
+### The number distribution of annotation boxes under different modalities.
+ <img src="https://github.com/Feng-LChen/image/blob/main/images/f1.png" width="300px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/f2.png" width="300px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/f3.png" width="300px"> 
+
+### The distribution of the size of annotation boxes under different modalities.
+ <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.10(a).png" width="300px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.10(b).png" width="300px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.10(c).png" width="300px"> 
+
+ ### The distribution of center point coordinates of annotation boxes under different modalities.
+  <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.9(a).png" width="300px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.9(b).png" width="300px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.9(c).png" width="300px"> 
+
+  ## Experimental results
+   <img src="https://github.com/Feng-LChen/image/blob/main/images/result1.png" width="800px">
+   <img src="https://github.com/Feng-LChen/image/blob/main/images/result2.png" width="800px">
+The detection results of partial test images with different parameter quantities in the algorithms during the day.
+
+   ## Visualization of experimental results
+   <img src="https://github.com/Feng-LChen/image/blob/main/images/result3.png" width="800px">
+    <img src="https://github.com/Feng-LChen/image/blob/main/images/result4.png" width="800px">
+   The detection results of partial test images with different parameter quantities in the algorithms at night.
