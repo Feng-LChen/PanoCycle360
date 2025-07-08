@@ -57,9 +57,9 @@ The following pictures show the classes of the dataset.
   ## Experimental results
    <img src="https://github.com/Feng-LChen/image/blob/main/images/result1.png" width="800px">
    <img src="https://github.com/Feng-LChen/image/blob/main/images/result2.png" width="800px">
-The detection results of partial test images with different parameter quantities in the algorithms during the day.
 
    ## Visualization of experimental results
    <img src="https://github.com/Feng-LChen/image/blob/main/images/result3.png" width="800px">
+   The detection results of partial test images with different parameter quantities in the algorithms during the day.
     <img src="https://github.com/Feng-LChen/image/blob/main/images/result4.png" width="800px">
    The detection results of partial test images with different parameter quantities in the algorithms at night.
