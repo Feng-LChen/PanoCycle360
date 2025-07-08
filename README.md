@@ -6,8 +6,11 @@
 
 ## PanoCycle360 introduction
 •	The first large-scale 360° panoramic dataset captured from a cyclist’s perspective.
+
 •	PanoCycle360 annotated various safety-critical objects in complex road environments.
+
 •	The novel annotation method effectively suppresses fisheye distortion.
+
 •	PanoCycle360’s performance has been validated with the most popular detection models.
 
 
