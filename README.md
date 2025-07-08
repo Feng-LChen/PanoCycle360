@@ -52,13 +52,13 @@
  
  <img src="https://github.com/Feng-LChen/image/blob/main/images/tongji.png" width="800px">
 
- The number distribution of annotation boxes under different modalities.
+### The number distribution of annotation boxes under different modalities.
  <img src="https://github.com/Feng-LChen/image/blob/main/images/f1.png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/f2.png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/f3.png" width="250px"> 
 
- The distribution of the size of annotation boxes under different modalities.
+### The distribution of the size of annotation boxes under different modalities.
  <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.10(a).png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.10(b).png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.10(c).png" width="250px"> 
 
- The distribution of center point coordinates of annotation boxes under different modalities.
+### The distribution of center point coordinates of annotation boxes under different modalities.
   <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.9(a).png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.9(b).png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.9(c).png" width="250px"> 
 
   ## 4.Experimental results
