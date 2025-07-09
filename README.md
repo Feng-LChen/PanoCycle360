@@ -51,7 +51,7 @@
 
  #### The proportion of annotation boxes of each class in PanoCycle360.
  
- <img src="https://github.com/Feng-LChen/image/blob/main/images/bing.png" width="500px">  
+ <img src="https://github.com/Feng-LChen/image/blob/main/images/pie.png" width="500px">  
 
  <img src="https://github.com/Feng-LChen/image/blob/main/images/tongji.png" width="800px">  
 
