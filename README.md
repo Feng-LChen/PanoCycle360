@@ -42,7 +42,8 @@
  s1. Urban Roads, s2. Suburban Roads, s3. Cycling Greenways，s4. Bridge, s5. Viaduct, s6.Park, s7. Avenue, s8. Ferry, s9. Rail
 
 ### The classes of the dataset.
- ![image](https://github.com/Feng-LChen/image/blob/main/images/9.png)      
+ ![image](https://github.com/Feng-LChen/image/blob/main/images/9.png)  
+
 
 
 
@@ -50,12 +51,12 @@
 
  #### The proportion of annotation boxes of each class in PanoCycle360.
  
- <img src="https://github.com/Feng-LChen/image/blob/main/images/bing.png" width="500px">
- 
- <img src="https://github.com/Feng-LChen/image/blob/main/images/tongji.png" width="800px">
+ <img src="https://github.com/Feng-LChen/image/blob/main/images/bing.png" width="500px">  
+
+ <img src="https://github.com/Feng-LChen/image/blob/main/images/tongji.png" width="800px">  
 
 #### The number distribution of annotation boxes under different modalities.
- <img src="https://github.com/Feng-LChen/image/blob/main/images/f1.png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/f2.png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/f3.png" width="250px"> 
+ <img src="https://github.com/Feng-LChen/image/blob/main/images/f1.png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/f2.png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/f3.png" width="250px">   
 
 #### The distribution of the size of annotation boxes under different modalities.
  <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.10(a).png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.10(b).png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.10(c).png" width="250px"> 
