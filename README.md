@@ -46,7 +46,7 @@
 
  ## 3.Details of the dataset
 
- ### The proportion of annotation boxes of each class in PanoCycle360.
+ #### The proportion of annotation boxes of each class in PanoCycle360.
  
  <img src="https://github.com/Feng-LChen/image/blob/main/images/bing.png" width="500px">
  
