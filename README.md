@@ -42,7 +42,9 @@
  s1. Urban Roads, s2. Suburban Roads, s3. Cycling Greenways，s4. Bridge, s5. Viaduct, s6.Park, s7. Avenue, s8. Ferry, s9. Rail
 
 ### The classes of the dataset.
- ![image](https://github.com/Feng-LChen/image/blob/main/images/9.png)
+ ![image](https://github.com/Feng-LChen/image/blob/main/images/9.png)      
+
+
 
  ## 3.Details of the dataset
 
