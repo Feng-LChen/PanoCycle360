@@ -41,7 +41,7 @@
  s<sub>1</sub>. Urban Roads, s<sub>2</sub>. Suburban Roads, s<sub>3</sub>. Cycling Greenways，s<sub>4</sub>. Bridge, s<sub>5</sub>. Viaduct, s<sub>6</sub>.Park, s<sub>7</sub>. Avenue, s<sub>8</sub>. Ferry, s<sub>9</sub>. Rail
 
 ### The classes of the dataset.
- ![image](https://github.com/Feng-LChen/image/blob/main/images/9.png)  
+ ![image](https://github.com/Feng-LChen/image/blob/main/images/911.png)  
 
 
 
@@ -63,15 +63,11 @@
 #### The distribution of center point coordinates of annotation boxes under different modalities.
   <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.9(a).png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.9(b).png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.9(c).png" width="250px"> 
 
-  ## 4.Experimental results
-   <img src="https://github.com/Feng-LChen/image/blob/main/images/result1.png" width="800px">
-   <img src="https://github.com/Feng-LChen/image/blob/main/images/result2.png" width="800px">
-
-   ## 5.Visualization of experimental results
-   <img src="https://github.com/Feng-LChen/image/blob/main/images/result3.png" width="800px">
+   ## 4.Visualization of experimental results
+   <img src="https://github.com/Feng-LChen/image/blob/main/images/Table_5.png" width="800px">
    The detection results of partial test images with different parameter quantities in the algorithms during the day.
 
-   <img src="https://github.com/Feng-LChen/image/blob/main/images/result4.png" width="800px">
+   <img src="https://github.com/Feng-LChen/image/blob/main/images/Table_6.png" width="800px">
    The detection results of partial test images with different parameter quantities in the algorithms at night.
 
 ## Citation and Acknowledgements
