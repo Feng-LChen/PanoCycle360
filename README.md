@@ -63,7 +63,7 @@
 #### The distribution of center point coordinates of annotation boxes under different modalities.
   <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.9(a).png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.9(b).png" width="250px"> <img src="https://github.com/Feng-LChen/image/blob/main/images/Figure.9(c).png" width="250px"> 
 
-   ## 4.Visualization of experimental results
+   ## 4.Experimental results
    <img src="https://github.com/Feng-LChen/image/blob/main/images/Table_5.png" width="800px">
    The detection results of partial test images with different parameter quantities in the algorithms during the day.
 
