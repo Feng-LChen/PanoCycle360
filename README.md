@@ -1,9 +1,7 @@
-# PanoCycle360: A Cyclist-Centric $360^{\circ}$ Panoramic Dataset for Safety-Critical Object Detection in Real-World Cycling Scenarios
+# A Cyclist-Centric $360^{\circ}$ Panoramic Dataset for Safety-Critical Object Detection in Real-World Cycling Scenarios
 
 ## 1.PanoCycle360 Download Link
- ​​The datasets can be found [here](https://drive.google.com/drive/folders/1T39X5r-T52wwmi3OmWRLYwgUs4sklaqG?usp=drive_link).​  
- 
-(Google Drive:https://drive.google.com/drive/folders/1T39X5r-T52wwmi3OmWRLYwgUs4sklaqG?usp=drive_link)
+ ​​The datasets can be found [here](https://doi.org/10.5281/zenodo.18993870).​  
 
 ## 2.PanoCycle360 introduction
 •	The first large-scale 360° panoramic dataset captured from a cyclist’s perspective.
@@ -77,7 +75,7 @@
    The detection results of partial test images with different parameter quantities in the algorithms at night.
 
 ## Citation and Acknowledgements
-Our paper on cycling safety has been submitted to Expert Systems With Applications and is under review~  
+Our paper on cycling safety has been submitted to Scientific Data and is under review~  
 
 ## Contact
 I would be happy to guide and assist in case of any questions and I am open to research discussions and collaboration in cycling safety. Ping me at clf132604@gmail.com.
